@@ -1,6 +1,6 @@
 package son.L1.hash;
 
-public class Answer {
+public class Answer_son {
 
 	public static void main(String[] args) {		
 		// TODO Auto-generated method stub
