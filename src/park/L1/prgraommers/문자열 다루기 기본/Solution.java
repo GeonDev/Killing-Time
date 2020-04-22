@@ -6,3 +6,5 @@ class Solution {
 				&& (s.length() == 4 || s.length() == 6);
 	}
 }
+
+//이보시게 윤상님 뭐 하려는 건지는 알려줘 ㅠㅠ

@@ -16,8 +16,7 @@ public class Answer_son {
 	public static String Solution(String[] participant, String[] completion) {
 		
 		
-		for(int i = 0; i<participant.length;i++) {
-		
+		for(int i = 0; i<participant.length;i++) {		
 			
 			for(int j = 0; j<completion.length;j++) {
 				if(completion[j]!=null && participant[i]!=null && participant[i].equals(completion[j])) {				
