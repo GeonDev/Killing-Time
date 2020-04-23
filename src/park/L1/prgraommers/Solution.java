@@ -1,3 +1,5 @@
+package park.L1.prgraommers;
+
 
 class Solution {
 	public boolean solution(String s) {
