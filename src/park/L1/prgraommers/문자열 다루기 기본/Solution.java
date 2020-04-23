@@ -1,3 +1,4 @@
+
 class Solution {
 	public boolean solution(String s) {
 		return 0 == s.chars()
