@@ -14,10 +14,8 @@ public class Answer_son {
 
 class Solution {
     public int[] solution(int N, int[] stages) {
-       int[] answer = {};
-       
-       List<String> tempList = new ArrayList<String>();
-       
+       int[] answer = {};       
+    
        Map<Integer,Integer> m = new HashMap<Integer, Integer>();
        
        
@@ -32,9 +30,9 @@ class Solution {
        	m.put(c, temp);
        }
        
-       for(int j =1; j<=m.size(); j++) {
-       	tempList.add(j+","+m.get(j));
-       }        
+   	List<Integer> keySetList = new ArrayList<>(m.keySet());
+	
+   	Collections.sort(keySetList, (o1, o2) -> (m.get(o2).compareTo(m.get(o1))));
        
        return answer;
    }
