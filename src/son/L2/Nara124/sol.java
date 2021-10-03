@@ -1,5 +1,9 @@
 package son.L2.Nara124;
 
+/**
+ * @author son.geon
+ * @link https://programmers.co.kr/learn/courses/30/lessons/12899
+*/
 public class sol {
 	
     public String solution(int n) {
