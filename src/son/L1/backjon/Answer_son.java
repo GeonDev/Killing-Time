@@ -1,4 +1,4 @@
-package son.L1.backjon01;
+package son.L1.backjon;
 
 public class Answer_son {
 

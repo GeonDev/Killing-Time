@@ -1,8 +1,5 @@
-package son.L1.sort2;
-import java.awt.color.CMMException;
-import java.util.ArrayList;
+package son.L1.sort;
 import java.util.Arrays;
-import java.util.HashSet;
 
 public class Msort {
 

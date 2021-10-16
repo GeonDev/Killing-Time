@@ -1,5 +1,6 @@
 package son.L1.permute;
 
+//순열 알고리즘
 public class Permutation {
 
 	public static void main(String[] args) {

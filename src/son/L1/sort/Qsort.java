@@ -1,4 +1,4 @@
-package son.L1.sort2;
+package son.L1.sort;
 
 public class Qsort {
 
